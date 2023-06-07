@@ -1,0 +1,2 @@
+C:\Users\emily.cntoledo\source\repos\atividade 5\atividade 5\obj\Debug\atividade 5.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\atividade 5\atividade 5\obj\Debug\atividade 5.csproj.CoreCompileInputs.cache
