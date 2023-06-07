@@ -1,0 +1,7 @@
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\bin\Debug\aula-05-correta.exe.config
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\bin\Debug\aula-05-correta.exe
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\bin\Debug\aula-05-correta.pdb
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\obj\Debug\aula-05-correta.csproj.CoreCompileInputs.cache
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\obj\Debug\aula-05-correta.exe
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\obj\Debug\aula-05-correta.pdb
+C:\Users\emily.cntoledo\source\repos\aula-05-correta\aula-05-correta\obj\Debug\aula-05-correta.csproj.AssemblyReference.cache
