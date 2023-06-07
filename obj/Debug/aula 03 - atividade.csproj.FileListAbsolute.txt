@@ -1,0 +1,7 @@
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\bin\Debug\aula 03 - atividade.exe.config
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\bin\Debug\aula 03 - atividade.exe
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\bin\Debug\aula 03 - atividade.pdb
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\obj\Debug\aula 03 - atividade.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\obj\Debug\aula 03 - atividade.csproj.CoreCompileInputs.cache
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\obj\Debug\aula 03 - atividade.exe
+C:\Users\emily.cntoledo\source\repos\aula 03 - atividade\aula 03 - atividade\obj\Debug\aula 03 - atividade.pdb
