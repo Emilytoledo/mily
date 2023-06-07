@@ -1,0 +1,7 @@
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\bin\Debug\aula 03 - calculadora  MIC.exe.config
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\bin\Debug\aula 03 - calculadora  MIC.exe
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\bin\Debug\aula 03 - calculadora  MIC.pdb
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\obj\Debug\aula 03 - calculadora  MIC.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\obj\Debug\aula 03 - calculadora  MIC.csproj.CoreCompileInputs.cache
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\obj\Debug\aula 03 - calculadora  MIC.exe
+C:\Users\emily.cntoledo\source\repos\aula 03 - calculadora  MIC\aula 03 - calculadora  MIC\obj\Debug\aula 03 - calculadora  MIC.pdb

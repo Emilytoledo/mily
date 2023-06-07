@@ -1,0 +1,7 @@
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\bin\Debug\Aula01Programação.exe.config
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\bin\Debug\Aula01Programação.exe
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\bin\Debug\Aula01Programação.pdb
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\obj\Debug\Aula01Programação.csproj.AssemblyReference.cache
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\obj\Debug\Aula01Programação.csproj.CoreCompileInputs.cache
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\obj\Debug\Aula01Programação.exe
+C:\Users\emily.cntoledo\source\repos\Aula01Programação\Aula01Programação\obj\Debug\Aula01Programação.pdb
